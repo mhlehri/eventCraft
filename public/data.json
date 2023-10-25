@@ -1,0 +1,77 @@
+{
+  "services": [
+    {
+      "_id": 1,
+      "title": "Conferences and Seminars",
+      "description": "Host successful conferences and seminars with our expert event planning services.",
+      "img": "https://i.ibb.co/vVTCVZs/md-duran-r-E9vg-D-TXg-M-unsplash.jpg",
+      "duration": "1-3 days",
+      "name": "Sarah Smith",
+      "place": "Local Conference Center",
+          "data_aos": "flip-up",
+          "price": "$990" ,
+          "para": "Host successful conferences and seminars with our expert event planning services. Our dedicated team of professionals will work closely with you to design and execute events that engage and inform your audience. Whether you're organizing a one-day seminar or a multi-day conference, we have the experience and resources to ensure it runs smoothly. We take care of every detail, from selecting the perfect venue to coordinating logistics and technical support. With our help, you can focus on delivering valuable content to your attendees while we handle the event's planning and execution."
+    },
+    {
+      "_id": 2,
+      "title": "Trade Shows and Expos",
+      "description": "Make a lasting impression at trade shows and expos with our comprehensive event management solutions.",
+      "img": "https://i.ibb.co/vPw8Xzb/20151110164110-trade-show-event-convention-people-work.jpg",
+      "duration": "Varies",
+      "name": "John Anderson",
+      "place": "Convention Center",
+        "data_aos": "flip-down",
+         "para" : "Make a lasting impression at trade shows and expos with our comprehensive event management solutions. We understand the unique challenges and opportunities that trade shows present, and we're here to help you maximize your presence. From booth design and setup to marketing and lead generation strategies, we've got you covered. Our experienced team will collaborate with you to create a booth that stands out, develop engaging presentations, and drive traffic to your exhibit. We'll ensure that your trade show experience is not just successful but also memorable for both you and your visitors."
+        
+  ,
+"price": "$990"   },
+    {
+      "_id": 3,
+      "title": "Team Building Workshops",
+      "description": "Enhance team cohesion and productivity with engaging team building workshops and activities.",
+      "img": "https://i.ibb.co/gtN19kW/kenny-eliason-1-a-A2-Fadydc-unsplash.jpg",
+      "duration": "1 day",
+      "name": "Emily Davis",
+      "place": "Outdoor Retreat Center",
+        "data_aos": "flip-up"
+        , "para" : "Enhance team cohesion and productivity with engaging team-building workshops and activities. Our workshops are designed to bring teams closer together, foster effective communication, and boost morale. Led by our experienced facilitator, Emily Davis, you can expect a day filled with interactive exercises and challenges that encourage collaboration and problem-solving. Whether you're a small startup or a large corporation, investing in team building can lead to a more motivated and efficient workforce. Our outdoor retreat center provides the perfect backdrop for a day of growth and bonding."
+,
+"price": "$990"     },
+    {
+      "_id": 4,
+      "title": "Product Launches",
+      "description": "Ensure a successful product launch event with our expert event planning and marketing strategies.",
+      "img": "https://i.ibb.co/rx7x3BR/claudio-schwarz-w-DZkpyb-Af-Y-unsplash.jpg",
+      "duration": "1 day",
+      "name": "Michael Johnson",
+      "place": "Exclusive Event Venue",
+        "data_aos": "flip-down",
+         "para" : "Make a lasting impression at trade shows and expos with our comprehensive event management solutions. We understand the unique challenges and opportunities that trade shows present, and we're here to help you maximize your presence. From booth design and setup to marketing and lead generation strategies, we've got you covered. Our experienced team will collaborate with you to create a booth that stands out, develop engaging presentations, and drive traffic to your exhibit. We'll ensure that your trade show experience is not just successful but also memorable for both you and your visitors.",
+        "price": "$990" 
+    },
+    {
+      "_id": 5,
+      "title": "Corporate Meetings",
+      "description": "Plan productive corporate meetings in ideal settings with our event coordination services.",
+      "img": "https://i.ibb.co/yhRbHdx/christina-wocintechchat-com-Q80-LYxv-Tbs-unsplash.jpg",
+      "duration": "1-2 days",
+      "name": "Olivia White",
+      "place": "Business Hotel"
+      ,  "data_aos": "flip-up"
+      , "para" : "Make a lasting impression at trade shows and expos with our comprehensive event management solutions. We understand the unique challenges and opportunities that trade shows present, and we're here to help you maximize your presence. From booth design and setup to marketing and lead generation strategies, we've got you covered. Our experienced team will collaborate with you to create a booth that stands out, develop engaging presentations, and drive traffic to your exhibit. We'll ensure that your trade show experience is not just successful but also memorable for both you and your visitors."
+  ,
+"price": "$990"   },
+    {
+      "_id": 6,
+      "title": "Award Ceremonies",
+      "description": "Recognize and honor outstanding achievements with our award ceremony planning expertise.",
+      "img": "https://i.ibb.co/wyhLk7M/wan-san-yip-ID1y-Wa1-Wpx0-unsplash.jpg",
+      "duration": "1 day",
+      "name": "Daniel Martin",
+      "place": "Elegant Banquet Hall"
+      ,  "data_aos": "flip-down"
+      , "para" : "Make a lasting impression at trade shows and expos with our comprehensive event management solutions. We understand the unique challenges and opportunities that trade shows present, and we're here to help you maximize your presence. From booth design and setup to marketing and lead generation strategies, we've got you covered. Our experienced team will collaborate with you to create a booth that stands out, develop engaging presentations, and drive traffic to your exhibit. We'll ensure that your trade show experience is not just successful but also memorable for both you and your visitors."
+,
+"price": "$990"     }
+  ]
+}

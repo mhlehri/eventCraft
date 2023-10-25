@@ -1,0 +1,12 @@
+.imgMask{
+    -webkit-mask-image: url("https://i.ibb.co/WWYcxdh/blob-haikei-1.png");
+    -webkit-mask-position: top,right;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: 650px;
+    mask-image: url("https://i.ibb.co/WWYcxdh/blob-haikei-1.png");
+    mask-position: right;
+    mask-repeat: no-repeat;
+    mask-size: 650px;
+  
+
+}
