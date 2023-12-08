@@ -1,6 +1,14 @@
-# Name: EvenCrafters
+### Event management web: EvenCrafters
 
-## Live link: https://eventcrafters.netlify.app/
+## Live Link: <a href="https://eventcrafters.netlify.app">PrimePress🔗</a>
+
+#### 🖥️ Teachs used:
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,react,firebase" />
+  </a>
+
+  #### 🧩 Project Features:
 
 - in home page there have services card option, when will click details button it will go to the details page. and it is private.
 
